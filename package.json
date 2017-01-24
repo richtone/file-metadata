@@ -1,0 +1,15 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "metadatas the sh*t out of any file",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "file",
+    "metadata"
+  ],
+  "author": "Richard Turza",
+  "license": "ISC"
+}
