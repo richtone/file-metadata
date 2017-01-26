@@ -4,6 +4,7 @@
   "description": "metadatas the sh*t out of any file",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "node test.js"
   },
   "keywords": [
