@@ -11,5 +11,9 @@
     "metadata"
   ],
   "author": "Richard Turza",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.1"
+  }
 }
